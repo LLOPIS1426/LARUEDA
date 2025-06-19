@@ -1,0 +1,4 @@
+tu-carpeta/
+├── index.html
+├── tapas.html
+└── desayunos.html
